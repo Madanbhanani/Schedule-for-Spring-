@@ -1,0 +1,45 @@
+
+body{
+ background-color:white;
+ 
+}
+
+h1{
+ color: rgb(253, 17, 17);
+
+}
+
+
+#j {
+
+ width: 370px;
+ float:right;
+ margin: 0px;
+padding:3px;
+background-color:red;
+color:black;
+border: 4px dashed;
+
+}
+
+
+#k{
+
+background-color:rgb(218, 14, 14)18, 14, 14);
+padding: 30px;
+margin: 3px;
+width:400px;
+float:center ;
+color: black;
+border:3px dashed red;
+height:30;
+}
+#i{
+  margin: 3px; 
+  padding: 9px; ;
+  background-color:white ;
+  color:black;
+  width: 370px; ;
+  float:right ;
+
+}

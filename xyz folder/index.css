@@ -1,0 +1,17 @@
+p {
+   text-transform:capitalize;
+  text-decoration: underline;
+  font-style: oblique;
+   font-weight: bolder;
+   font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: rgb(152, 30, 152);
+    text-shadow: 7px 0px px;
+    text-indent: 70px;
+    text-align:center;
+   vertical-align:  ;
+   
+
+
+}
